@@ -1,13 +1,13 @@
 ## Installation
-Clone the repo and go to the directory: <br/>
+Clone the repository: <br/>
 ```bash
-git clone https://github.com/Vyelen/wabot-ai.git && cd wabot-ai
+git clone https://github.com/Vyelen/wabot-ai.git .
 ```
-Install all the existing dependencies: <br/>
+Install all dependencies: <br/>
 ```bash
 npm i
 ```
-Run the project: <br/>
+Run the program: <br/>
 ```bash
 npm start
 ```

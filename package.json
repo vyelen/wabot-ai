@@ -1,21 +1,18 @@
 {
-  "name": "wabot-ai",
+  "name": "wabot-template",
   "version": "1.0.0",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": [
-    "whatsapp bot", "AI"
-  ],
+  "keywords": [],
   "author": "Vyelen",
   "license": "MIT",
-  "description": "whatsapp bot with AI response",
+  "description": "template for start making whatsapp bot",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
     "qrcode-terminal": "^0.12.0",
-    "@google/generative-ai": "^0.21.0",
     "dotenv": "^16.4.5"
   }
 }
